@@ -72,6 +72,9 @@ margin-bottom: 0;
       width: 30.5%;
       height:4vh;
 }
+.product-name{
+    margin-left:8%;
+}
 .price{
     margin-left: 21.5%;
 }
@@ -91,8 +94,8 @@ margin-bottom: 0;
        width:70%;
        height: 5vh;
        margin-left:18%;
-       margin-top: 12%;
-       background-color:transparent;
+       margin-top:8%;
+       background-color:teal;
        border:2px solid cyan;
        outline: none;
        color: white;
